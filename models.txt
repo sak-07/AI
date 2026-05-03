@@ -1,1 +1,2 @@
 qwen2.5:7b-instruct
+llama3.2:3b
