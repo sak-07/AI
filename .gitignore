@@ -2,3 +2,5 @@ test_header.py
 AI.docx
 .env
 .venv/
+pirate_lora_adapter/
+lora_pirate_model/
