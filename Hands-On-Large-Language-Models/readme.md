@@ -1,0 +1,1 @@
+These notebooks are created to complete the chapters of the book "Hands-On Large Language Models" using google colab.
