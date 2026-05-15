@@ -6,3 +6,5 @@ AI_backup.docx
 pirate_lora_adapter/
 lora_pirate_model/
 github_profile_readme.md
+*.json
+*.gz
