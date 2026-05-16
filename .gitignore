@@ -8,3 +8,7 @@ lora_pirate_model/
 github_profile_readme.md
 *.json
 *.gz
+Huggingface/5. Dataset Library/drug-reviews-test.jsonl
+Huggingface/5. Dataset Library/drug-reviews-train.jsonl
+Huggingface/5. Dataset Library/drug-reviews-validation.jsonl
+Huggingface/5. Dataset Library/drugs_data/
